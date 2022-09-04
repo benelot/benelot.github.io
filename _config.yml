@@ -1,9 +1,9 @@
 # site settings
-title: Benjamin Ellenberger
+title: 2022, Benjamin Ellenberger, 
 subtitle: Data Enthusiast
 email: be.ellenberger@gmail.com
 description: Data Scientist @ IDSC Insel University Hospital, PhD in the Comp. Neuro. Group of Walter Senn at Uni Bern, personally on Google @bulletphysics @brax and Deep-RL.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Benjamin Ellenberger
 street_address:
@@ -11,7 +11,7 @@ city:
 state: Bern
 zip_code:
 country: Switzerland
-phone:
+phone: 01001110 01000001
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
