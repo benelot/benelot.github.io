@@ -8,7 +8,7 @@ url: # the base hostname & protocol for your site
 author: Benjamin Ellenberger
 street_address:
 city:
-state: Bern
+state: Bern,
 zip_code:
 country: Switzerland
 phone: 01001110 01000001
