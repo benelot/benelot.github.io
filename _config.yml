@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Benjamin Ellenberger
+subtitle: Data Enthusiast
+email: be.ellenberger@gmail.com
+description: Data Scientist @ IDSC Insel University Hospital, PhD in the Comp. Neuro. Group of Walter Senn at Uni Bern, personally on Google @bulletphysics @brax and Deep-RL.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
